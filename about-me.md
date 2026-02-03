@@ -1,7 +1,7 @@
 # About Me
 **Name:** [Anastasia Sidorova]
-**Program:** Data Science(BIA), MTSU
-**Graduation:** Spring 2026
+**Program:** [Data Science(BIA), MTSU]
+**Graduation:** [Spring 2026]
 ## Interests
 - [Crime analytics, Healhcare analytics]
 ## Skills
